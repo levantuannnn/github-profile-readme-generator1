@@ -1,9 +1,9 @@
-<h1 align="center">Xin chào 👋, mình là Tuấn</h1>
+<h1 align="center">Xin chào 👋, tôi là Tuấn</h1>
 <h3 align="center">Một lập trình viên fullstack đầy nhiệt huyết đến từ Việt Nam</h3>
 
-<h3 align="left">Kết nối với mình:</h3>
+<h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/levantuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levantuan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/le van tuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="le van tuan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
